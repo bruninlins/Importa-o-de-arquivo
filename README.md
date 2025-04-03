@@ -1,6 +1,10 @@
 <h1 align="center">Script para importar um arquivo CSV para MySQL</h1>
 
+<br>
+
 Este é um script em Python que importa dados de um arquivo CSV para uma tabela MySQL. Ele cria a tabela automaticamente (caso não exista) e insere os dados do arquivo.
+
+<br>
 
 ## Requisitos
 
