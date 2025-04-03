@@ -42,3 +42,8 @@ Este é um script em Python que importa dados de um arquivo CSV para uma tabela 
 - O script não trata erros relacionados ao formato do CSV, então os dados devem estar bem estruturados.
 - Para evitar problemas de segurança, **não armazene credenciais de banco de dados diretamente no código-fonte em produção**.
 
+
+## Imagem do script funcionando:
+
+
+![Captura de tela 2025-04-02 191602](https://github.com/user-attachments/assets/df8593a9-008d-4c10-a62c-a60a6be000c2)
